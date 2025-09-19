@@ -1,7 +1,7 @@
 # HW 2 - Build a Basic REST API
 
 ## Instructions
-1. Clone this repo to your development machine.
+1. Clone this repo to your development machine. Use NPM to install the dependencies.
 2. Work on it, solve the problems.
 3. Add, commit, and push frequently.
 4. Be sure to push your final submission before the deadline.
