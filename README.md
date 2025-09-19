@@ -5,6 +5,7 @@
 2. Work on it, solve the problems.
 3. Add, commit, and push frequently.
 4. Be sure to push your final submission before the deadline.
+5. Also submit the assignment on Canvas, including your repo link and a statement about your use of AI.
 
 ## About
 This starter repo contains implementations for the routes we did in class during week 4. Refer to the lecture notes for details, seed data for your database, and the JSON format for each model. The already implemented routes are crossed out below, and your job is to implement the rest of them.
